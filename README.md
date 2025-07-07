@@ -50,7 +50,7 @@
 [![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](#)
 [![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)](#)
 
-#☕#
+# ☕:
 [![](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#)
 [![](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
  
