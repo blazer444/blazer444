@@ -56,6 +56,10 @@
 [![](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#)
 [![](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
  
-  
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blazer444/blazer444/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blazer444/blazer444/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/blazer444/blazer444/output/github-contribution-grid-snake.svg">
+</picture>
 
 
