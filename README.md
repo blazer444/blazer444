@@ -8,8 +8,6 @@
 
 📬 Feel free to reach out: carrijogomessilva@gmail.com
 
-😄 Fun fact: I enjoy turning coffee into clean code
-
 💻 I like to do hackintosh (macOS on non-Apple devices) on computers, in fact I have one now
 
 <div style="display: inline_block"><br>
