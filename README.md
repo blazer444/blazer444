@@ -28,7 +28,7 @@
 [![](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=fff)](#)
 
 # 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+  ![](https://github-readme-stats.vercel.app/api?username=blazer444&show_icons=true&theme=merko)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blazer444&theme=merko&layout=compact)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=blazer444&theme=merko&hide_border=true)<br/>
   ##
