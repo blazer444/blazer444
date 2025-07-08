@@ -21,7 +21,7 @@
 </div>
 
 
-# 🧑🏼‍💻 Tools
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW41OXdzMnFlZXl0ZmIxN3FsbHE2OXphZTZ3b3llaGFuaHk0bms5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MF1kR4YmC2Z20/giphy.gif" width ="55"> Tools
 ![](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 [![](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](#)
 [![](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=fff)](#)
