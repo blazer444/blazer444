@@ -10,6 +10,8 @@
 
 💻 I like to do hackintosh (macOS on non-Apple devices) on computers, in fact I have one now
 
+▶️ I like to create dark YouTube channels, i have one that has over 150,000 subscribers
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Cauã-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cauã-NodeJS" height="40" width="30" src="https://user-images.githubusercontent.com/4727/38117885-69734bbc-336c-11e8-8653-86b0fa071896.png">
