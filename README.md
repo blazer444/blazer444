@@ -21,10 +21,13 @@
 </div>
 
 
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW41OXdzMnFlZXl0ZmIxN3FsbHE2OXphZTZ3b3llaGFuaHk0bms5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MF1kR4YmC2Z20/giphy.gif" width ="55"> Tools
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW41OXdzMnFlZXl0ZmIxN3FsbHE2OXphZTZ3b3llaGFuaHk0bms5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MF1kR4YmC2Z20/giphy.gif" width ="55"> Ferramentas
 ![](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 [![](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](#)
 [![](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=fff)](#)
+[![](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)](#)
+[![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+[![](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](#)
 
 # 📊 GitHub Stats:
   ![](https://github-readme-stats.vercel.app/api?username=blazer444&show_icons=true&theme=merko)
@@ -49,7 +52,16 @@
 [![](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)](#)
 [![](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](#)
 [![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](#)
+[![](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white)](#)
 [![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)](#)
+[![](https://img.shields.io/badge/Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white)](#)
+[![](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](#)
+[![](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![](https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=fff)](#)
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](#)
+[![](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](#)
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](#)
+
 
 # ☕
 [![](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](#)
