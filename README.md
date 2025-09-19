@@ -1,16 +1,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=2DDE3A&width=435&lines=Hello+World+%F0%9F%91%8B+Eu+Sou+o+Cau%C3%A3+Carrijo%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-🚀 I’m a backend developer passionate about building scalable applications
+🚀 Sou um desenvolvedor Full Stack que adora construir aplicações escaláveis. 
 
-🛠️ I work mainly with JavaScript and Node.js 
+💡 Sempre explorando novas ferramentas e tecnologias de backend e frontend
 
-💡 Always exploring new tools and backend technologies
+📬 Entre em contato comigo para ajudar você: carrijogomessilva@gmail.com
 
-📬 Feel free to reach out: carrijogomessilva@gmail.com
+💻 Eu gosto de fazer hackintosh (macOS em dispositivos que não são da Apple) em computadores, na verdade eu estou em um agora.
 
-💻 I like to do hackintosh (macOS on non-Apple devices) on computers, in fact I have one now
-
-▶️ I like to create dark YouTube channels, i have one that has over 150,000 subscribers
+▶️ Eu gosto de criar canais dark's no YouTube, eu tenho um que tem mais de 150.000 inscritos.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cauã-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,7 +32,7 @@
   ![](https://github-readme-streak-stats.herokuapp.com/?user=blazer444&theme=merko&hide_border=true)<br/>
   ##
 
-# 🌐 Social Medias:
+# 🌐 Midias Sociais:
 <div> 
   <a href="https://www.youtube.com/@CoutryballTube_br/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/carrijo.caua/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -43,7 +41,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp" width="116">
   <a href="https://www.linkedin.com/in/cau%C3%A3-carrijo-6aa266244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Experiences:
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Experiencias:
 [![](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=fff)](#)
 [![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 [![](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)](#)
