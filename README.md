@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=2DDE3A&width=435&lines=Hello+World+%F0%9F%91%8B+Im+Cau%C3%A3+Carrijo%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=2DDE3A&width=435&lines=Hello+World+%F0%9F%91%8B+Eu+Sou+o+Cau%C3%A3+Carrijo%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 🚀 I’m a backend developer passionate about building scalable applications
 
