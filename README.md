@@ -6,7 +6,7 @@
 
 📬 Entre em contato comigo para ajudar você: carrijogomessilva@gmail.com
 
-💻 Eu gosto de fazer hackintosh (macOS em dispositivos que não são da Apple) em computadores, na verdade eu estou em um agora.
+💻 Eu gosto de fazer hackintosh (macOS em dispositivos que não são da Apple) em computadores.
 
 ▶️ Eu gosto de criar canais dark's no YouTube, eu tenho um que tem mais de 150.000 inscritos.
 
